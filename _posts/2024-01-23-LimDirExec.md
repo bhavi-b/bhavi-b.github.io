@@ -11,6 +11,7 @@ tags: [os, theory]
 - How can we run processes efficiently while retaining control of CPU?
 
 ![Without limits](/assets/images/6-1.png)
+
 > The OS must virtualize the CPU in an efficient manner while retaining control over the system. It uses hardware support in order to do this effectively.
 {: .prompt-tip}
 
